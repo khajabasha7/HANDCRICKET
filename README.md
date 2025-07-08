@@ -13,20 +13,10 @@ A fun and interactive **Hand Cricket game** built using **Python and Tkinter**, 
 - 💻 Clean UI with slight **responsive layout** feel for desktop/tablet
 - ✅ Easy to use & beginner-friendly codebase
 
-## 🖼️ Preview
 
-> *(Add screenshots here if available)*
 
 ## 🛠️ Tech Stack
 
 - **Language:** Python 3
 - **GUI:** Tkinter
 
-## 🚀 Getting Started
-
-### Prerequisites
-
-Make sure you have **Python 3.x** installed. You can check by running:
-
-```bash
-python --version
